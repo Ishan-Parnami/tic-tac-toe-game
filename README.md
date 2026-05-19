@@ -2,6 +2,10 @@
 
 A modern, responsive Tic Tac Toe game built with React, Vite, Bun, and Tailwind CSS. The UI uses a clean dark theme with clear turn feedback, win highlighting, and accessible controls.
 
+## Deployed
+
+Play [tic tac toe](https://tic-tac-toe-game-ek4b.onrender.com) now
+
 ## Features
 
 - 3×3 interactive board
@@ -54,7 +58,7 @@ bun run preview
 
 ## Deploying
 
-This project is ready to deploy on Vercel or Netlify as a standard Vite app. Use the build command above and publish the generated `dist` directory.
+This project is ready to deploy on Vercel, Netlify, or Render as a standard Vite app. Use the build command above and publish the generated `dist` directory.
 
 ## Project Structure
 
@@ -95,8 +99,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Ishan Parnami**
 
-- GitHub: [@](https://github.com/Ishan-Parnami)
-- Twitter: [@](https://x.com/ishanp214)
+- GitHub: [@Ishan-Parnami](https://github.com/Ishan-Parnami)
+- Twitter: [@ishanp214](https://x.com/ishanp214)
 
 ---
 
